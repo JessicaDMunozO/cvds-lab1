@@ -1,10 +1,10 @@
 # Acerca de mi
-## **Datos**
-1. Nombre: *Jessica Muñoz*
-2. Carrera: *Ingeniería de sistemas*
-3. Semestre: 7
+## Datos
+1. **Nombre:** *Jessica Muñoz*
+2. **Carrera:** *Ingeniería de sistemas*
+3. **Semestre:** 7
 
-## **Adicional**
+## Adicional
 Además de la universidad, intento ocupar mi tiempo con otras cosas que me gustan.\
 Algunas son:
 
