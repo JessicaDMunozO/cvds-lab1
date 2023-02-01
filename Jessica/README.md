@@ -6,7 +6,9 @@
 
 ## **Adicional**
 Además de la universidad, intento ocupar mi tiempo con otras cosas que me gustan.\
-Algunas son:\
+Algunas son:
+
+
 + Dibujar
 + Leer
 + Viajar
