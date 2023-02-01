@@ -6,8 +6,8 @@
 
 ## **Adicional**
 Además de la universidad, intento ocupar mi tiempo con otras cosas que me gustan.\
-Algunas son:\
-+ Tocar la ![batería](http://beatpxm.com/wp-content/uploads/2022/10/pro-system-audiotek.jpg)\
+Algunas son:\ 
++ Tocar la ![batería](http://beatpxm.com/wp-content/uploads/2022/10/pro-system-audiotek.jpg)\ 
 Me gusta mucho la música, una de mis canciones favoritas es `2 + 2 = 5` de *Radiohead.*
 + Dibujar
 + Leer
