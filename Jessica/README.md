@@ -17,7 +17,7 @@ Algunas son:
 ![batería](http://beatpxm.com/wp-content/uploads/2022/10/pro-system-audiotek.jpg)
 
 
-    Me gusta mucho la música, una de mis canciones favoritas es `2 + 2 = 5` de *Radiohead.*
+Me gusta mucho la música, una de mis canciones favoritas es `2 + 2 = 5` de *Radiohead.*
 + Dibujar
 + Leer
 + Viajar
